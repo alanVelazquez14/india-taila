@@ -19,3 +19,11 @@ body {
   color: var(--foreground);
   font-family:'ABeeZee', Arial, Helvetica, sans-serif;
 }
+
+* {
+  user-select: none;
+}
+
+/* input, textarea {
+  user-select: text;
+} */
